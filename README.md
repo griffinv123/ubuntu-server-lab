@@ -27,7 +27,7 @@ configs/
 
 ## Current Progress
 
-- [X] Initial installation
+- [X] Initial installation and updates
 - [ ] User management
 - [ ] SSH configuration
 - [ ] Static IP configuration
