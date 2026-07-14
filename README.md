@@ -28,7 +28,7 @@ configs/
 ## Current Progress
 
 - [X] Initial installation and updates
-- [ ] User management
+- [X] User management
 - [ ] SSH configuration
 - [ ] Static IP configuration
 - [ ] UFW firewall
